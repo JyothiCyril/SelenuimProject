@@ -1,0 +1,6 @@
+com\qa\selenium\pages\AmazonPages.class
+com\qa\utilities\ExcelUtils.class
+com\qa\selenium\testscripts\TC_AmazonSeachTest_001.class
+com\qa\utilities\ReadConfig.class
+com\qa\utilities\Reporting.class
+com\qa\selenium\testscripts\BaseTest.class
